@@ -3,6 +3,15 @@ border: 5px solid black;
 width: 350px;
 margin-left: 500;
 border: ;
+font-family: times;
+    font-size: 25px;
+    background: #22a4cf;
+    font-weight: bold;
+    color: white;
+    border: black 4px solid;
+    border-radius: 20px;
+    padding: 20px 50px;
+    margin-top: 10px;
 }
 
 .eko {
@@ -10,6 +19,15 @@ border: 5px solid black;
 width: 350px;
 margin-left: 500;
 border: ;
+font-family: times;
+    font-size: 25px;
+    background: #22a4cf;
+    font-weight: bold;
+    color: white;
+    border: black 4px solid;
+    border-radius: 20px;
+    padding: 20px 50px;
+    margin-top: 10px;
 }
 
 
