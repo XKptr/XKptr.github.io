@@ -1,0 +1,53 @@
+.ck{
+
+    border: black 4px solid;
+  box-shadow: 5px 5px 4px rgba(0,0,0,0.8);
+    padding: 10px;
+}
+
+
+.kotak {
+width: 350px;
+font-family: Sans-Serif;
+    font-size: 25px;
+    background: orange;
+    font-weight: bold;
+box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+    padding: 10px;
+    color: black;
+    border: black 4px solid;
+    border-radius: 20px;
+    padding: 20px 30px;
+    margin-top: 10px;
+}
+
+
+
+.link{
+  display: flex;
+  justify-content: center;
+  padding: 20px 50px;
+}
+
+.link>a{
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+   box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+    padding: 10px;
+  text-align: center;
+  border: black 4px solid;
+  background: orange;
+  border-radius: 20px;
+  margin: 5px 10px;
+  padding: 20px 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.link>
+
+html {
+ width: 100%;
+ height: 100%;
+}
